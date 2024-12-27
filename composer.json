@@ -1,0 +1,15 @@
+{
+    "name": "youcode/contactify",
+    "autoload": {
+        "psr-4": {
+            "Youcode\\Contactify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "salma",
+            "email": "salmatergui7@gmail.com"
+        }
+    ],
+    "require": {}
+}
